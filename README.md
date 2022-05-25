@@ -11,7 +11,7 @@ Objetivos:
 
 Objetivo General: Analizar los conceptos con la finalidad de resolver problemas y ejercicios
 
-Objetivos Específicos: Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado.
+Objetivos Específicos: Determinar correctamente las fórmulas de la ley de ohm para resolver el problema dado
 
 Determinar correctamente los pasos a seguir para resolver problemas de notación científica.
 
