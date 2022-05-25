@@ -17,4 +17,4 @@ Determinar correctamente los pasos a seguir para resolver problemas de notación
 
 Márco teórico:
 
-https://github.com/MelanyArmas/Tarea-1/blob/main/categorias%20de%20materiales.jpg
+![ ]
